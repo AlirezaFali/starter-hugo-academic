@@ -1,6 +1,7 @@
 ---
 title: Alireza Fali
 role: Ph.D. candidate at University of Georgia
+avatar_filename: img_4785.jpg
 bio: My research interests include distributed near-field optical microscopy,
   nano-FTIR, quantum optics, and nano optics
 interests:
