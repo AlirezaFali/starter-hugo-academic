@@ -21,7 +21,7 @@ links:
     icon_pack: null
 image:
   caption: Tip-enhanced photoluminescence
-  focal_point: Smart
+  focal_point: ""
   filename: content/project/example/toc_v7_to-save.jpg
 url_code: ""
 ---
