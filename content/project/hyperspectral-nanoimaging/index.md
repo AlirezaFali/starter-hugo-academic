@@ -4,9 +4,9 @@ date: 2021-10-21T20:03:29.828Z
 draft: false
 featured: false
 tags:
-  - Nano imaging
+  - Nano Imaging
 categories:
-  - Nano imaging
+  - Nano Imaging
 image:
   filename: featured
   focal_point: Smart
