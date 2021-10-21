@@ -15,7 +15,7 @@ design:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
     text_color_light: true
-    image: icon.png
+    image: ""
   spacing:
     padding:
       - 20px
