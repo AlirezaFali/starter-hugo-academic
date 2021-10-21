@@ -9,7 +9,7 @@ summary: It has been known that TMDCs undergo faster degradation when exposed to
   degradation of the inner material. Far-field Cryogenic experiment has also
   been performed on the sample to understand PL emission of interface.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2021-10-21T18:00:44.785Z
 external_link: ""
 url_slides: ""
 title: Photodegradation of TMDCs
