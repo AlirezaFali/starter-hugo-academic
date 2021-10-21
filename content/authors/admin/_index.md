@@ -19,19 +19,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/alireza-fali/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Georgia
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Nano Photonics and Quantum Optics
+      institution: University of Georgia
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
