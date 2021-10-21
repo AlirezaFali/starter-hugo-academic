@@ -19,7 +19,7 @@ links:
   - url: https://pubs.acs.org/doi/10.1021/acsnano.0c06148?__cf_chl_jschl_tk__=pmd_Beo0Suqoju5HY0Po2MZO4ZZuWrQAVu2DNtBQztjPffE-1634839105-0-gqNtZGzNAiWjcnBszQuR
     icon_pack: null
 image:
-  caption: tip-enhanced photoluminescence
+  caption: Tip-enhanced photoluminescence
   focal_point: Smart
   filename: toc_v7_to-save.jpg
 url_code: ""
