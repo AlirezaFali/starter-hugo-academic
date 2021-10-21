@@ -5,7 +5,8 @@ draft: false
 featured: false
 tags:
   - Nano imaging
-categories: []
+categories:
+  - Nano imaging
 image:
   filename: featured
   focal_point: Smart
