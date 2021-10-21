@@ -16,10 +16,7 @@ title: Photodegradation of TMDCs
 tags:
   - Quantum-Optics
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - url: https://pubs.acs.org/doi/10.1021/acsnano.0c06148?__cf_chl_jschl_tk__=pmd_Beo0Suqoju5HY0Po2MZO4ZZuWrQAVu2DNtBQztjPffE-1634839105-0-gqNtZGzNAiWjcnBszQuR
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
