@@ -6,7 +6,7 @@ widget: blank
 widget_id: "1"
 headless: true
 weight: 15
-title: Academic Template
+title: Alireza Fali
 subtitle: ""
 active: true
 design:
