@@ -21,6 +21,6 @@ links:
 image:
   caption: tip-enhanced photoluminescence
   focal_point: Smart
-  filename: featured.jpg
+  filename: toc_v7_to-save.jpg
 url_code: ""
 ---
