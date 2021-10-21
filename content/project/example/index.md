@@ -21,7 +21,7 @@ links:
     icon_pack: null
 image:
   caption: Tip-enhanced photoluminescence
-  focal_point: ""
+  focal_point: RIGHT
   filename: featured.jpg
 url_code: ""
 ---
