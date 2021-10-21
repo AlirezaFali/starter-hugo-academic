@@ -22,4 +22,4 @@ design:
       - 20px
       - "0"
 ---
-## 👋 Alireza Fali
+## Alireza Fali
