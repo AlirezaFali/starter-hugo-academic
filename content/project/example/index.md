@@ -25,5 +25,3 @@ image:
   focal_point: Smart
 url_code: ""
 ---
- \item \textbf{Photodegradation of TMDCs} 
-                           \item \textbf{Microscope installation} In 2021 during lockdown due to Covid, we received the THz Near-field microscope. No one could come to the USA for installation. So I led the installation of the microscope from unboxing to the tests after installation.
