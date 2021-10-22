@@ -9,6 +9,6 @@ categories:
   - Nano Imaging
 image:
   filename: day1.jpg
-  focal_point: RIGHT
+  focal_point: Left
   preview_only: false
 ---
