@@ -8,7 +8,7 @@ tags:
 categories:
   - Nano Imaging
 image:
-  filename: featured.jpg
+  filename: featured.jpeg.jpg
   focal_point: Left
   preview_only: false
 ---
