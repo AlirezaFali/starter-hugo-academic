@@ -16,6 +16,6 @@ categories:
   - Nano Imaging
 image:
   filename: featured.jpeg
-  focal_point: Left
+  focal_point: SMART
   preview_only: false
 ---
