@@ -11,7 +11,7 @@ summary: It has been known that TMDCs undergo faster degradation when exposed to
   been performed on the sample to understand PL emission of interface.
 url_video: ""
 title: Photodegradation of TMDCs
-featured: false
+featured: true
 tags:
   - Quantum-Optics
 external_link: ""
