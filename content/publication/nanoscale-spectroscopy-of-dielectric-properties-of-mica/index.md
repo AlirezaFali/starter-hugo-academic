@@ -13,7 +13,7 @@ authors:
   - T. Tiwald
   - K. Bolotin
   - J. D. Caldwell
-  - Y. Abate
+  - "& Y. Abate"
 author_notes: []
 publication: ACS Photonics
 summary: ""
