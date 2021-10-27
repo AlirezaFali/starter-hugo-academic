@@ -10,14 +10,12 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-author_notes:
   - T. G. Folland
   - A. Fali
   - et al.
+author_notes: []
 publication: Nature communication
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
