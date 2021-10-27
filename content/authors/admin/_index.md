@@ -13,7 +13,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:alirezafali85@gmail.com
-  - icon: googlescholar
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=VTbWwk0AAAAJ
   - icon: linkedin
