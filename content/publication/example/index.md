@@ -23,7 +23,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Reconfigurable Mid-Infrared Hyperbolic Metasurfaces using Phase-Change
-  Materials1
+  Materials3
 subtitle: ""
 doi: doi.org/10.1038/s41467-018-06858-y
 featured: true
