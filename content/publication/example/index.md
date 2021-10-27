@@ -24,9 +24,9 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
-subtitle: Reconfigurable Mid-Infrared Hyperbolic Metasurfaces using Phase-Change
+title: Reconfigurable Mid-Infrared Hyperbolic Metasurfaces using Phase-Change
   Materials
+subtitle: ""
 doi: https://www.nature.com/articles/s41467-018-06858-y
 featured: true
 tags: []
