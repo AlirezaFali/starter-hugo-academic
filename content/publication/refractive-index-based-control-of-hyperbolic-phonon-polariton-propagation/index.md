@@ -5,15 +5,15 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
+  - T. G. Folland
   - A. Fali
   - S. T. White
-  - T. G. Folland
-  - M. He
-  - N. A. Aghamiri
+  - J. R. Matson
   - S. Liu
+  - N. A. Aghamiri
   - J. H. Edgar
   - R. F. Haglund Jr.
-  - J. D. Caldwell & Y. Abate
+  - Y. Abate & J. D. Caldwell
 author_notes: []
 publication: Nano Letters
 summary: ""
@@ -22,9 +22,9 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Refractive Index-Based Control of Hyperbolic Phonon-Polariton Propagation1
+title: Reconfigurable infrared hyperbolic metasurfaces using phase change materials
 subtitle: ""
-doi: doi.org/10.1021/acs.nanolett.9b02651
+doi: doi.org/10.1038/s41467-018-06858-y
 featured: true
 tags: []
 projects:
