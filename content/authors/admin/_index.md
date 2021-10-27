@@ -19,6 +19,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alireza-fali/
+  - display:
+      header: false
+    link: mailto:alirezafali85@gmail.com
+    icon_pack: fas
+    icon: modern
 organizations:
   - name: University of Georgia
     url: ""
