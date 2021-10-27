@@ -15,7 +15,7 @@ authors:
   - R. F. Haglund Jr.
   - Y. Abate & J. D. Caldwell
 author_notes: []
-publication: Nano Letters
+publication: Nature Communications
 summary: ""
 url_dataset: ""
 url_project: ""
