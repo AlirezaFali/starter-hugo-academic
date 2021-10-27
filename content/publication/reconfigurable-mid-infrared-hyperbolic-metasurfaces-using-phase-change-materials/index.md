@@ -5,29 +5,28 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - T. G. Folland
   - A. Fali
   - S. T. White
-  - J. R. Matson
-  - S. Liu
+  - T. G. Folland
+  - M. He
   - N. A. Aghamiri
+  - S. Liu
   - J. H. Edgar
   - R. F. Haglund Jr.
-  - Y. Abate & J. D. Caldwell
+  - J. D. Caldwell & Y. Abate
 author_notes: []
-publication: Nature communication
+publication: Nano Letters
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: ""
 url_source: ""
 url_video: ""
-title: Reconfigurable Mid-Infrared Hyperbolic Metasurfaces using Phase-Change
-  Materials
+title: Refractive Index-Based Control of Hyperbolic Phonon-Polariton Propagation
 subtitle: ""
-doi: https://www.nature.com/articles/s41467-018-06858-y
+doi: https://pubs.acs.org/doi/10.1021/acs.nanolett.9b02651
 featured: true
 tags: []
 projects:
