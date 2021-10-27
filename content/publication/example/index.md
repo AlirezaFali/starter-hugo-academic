@@ -28,10 +28,9 @@ subtitle: ""
 doi: doi.org/10.1038/s41467-018-06858-y
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
