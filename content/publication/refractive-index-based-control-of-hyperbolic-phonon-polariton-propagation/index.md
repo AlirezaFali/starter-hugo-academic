@@ -1,6 +1,6 @@
 ---
 abstract: ""
-slides: doi.org/10.1038/s41467-018-06858-y
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -24,7 +24,7 @@ url_source: ""
 url_video: ""
 title: Reconfigurable infrared hyperbolic metasurfaces using phase change materials
 subtitle: ""
-doi: ""
+doi: doi.org/10.1038/s41467-018-06858-y
 featured: true
 tags: []
 projects:
