@@ -7,7 +7,13 @@ publication_types:
 authors:
   - T. G. Folland
   - A. Fali
-  - et al.
+  - S. T. White
+  - J. R. Matson
+  - S. Liu
+  - N. A. Aghamiri
+  - J. H. Edgar
+  - R. F. Haglund Jr.
+  - Y. Abate & J. D. Caldwell
 author_notes: []
 publication: Nature communication
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
