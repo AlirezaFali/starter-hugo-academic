@@ -27,7 +27,8 @@ subtitle: ""
 doi: doi.org/10.1038/s41467-018-06858-y
 featured: true
 tags: []
-projects: []
+projects:
+  - example
 image:
   caption: ""
   focal_point: ""
