@@ -6,7 +6,7 @@ bio: My research interests include distributed near-field optical microscopy,
   quantum optics, nano optics, and nano-FTIR
 interests:
   - Near-Field Optical Microscopy
-  - Nano-FTIR
+  - Nano Characterization
   - Quantum Optics
   - Nano Optics
 social:
