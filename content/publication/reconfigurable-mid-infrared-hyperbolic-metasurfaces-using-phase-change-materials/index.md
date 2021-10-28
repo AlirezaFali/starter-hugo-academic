@@ -25,7 +25,7 @@ url_video: ""
 title: Refractive Index-Based Control of Hyperbolic Phonon-Polariton Propagation
 subtitle: ""
 doi: https://doi.org/10.1021/acs.nanolett.9b02651
-featured: true
+featured: false
 tags: []
 projects:
   - example
