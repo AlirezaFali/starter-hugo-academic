@@ -20,7 +20,7 @@ title: Violet phosphorus surface chemical degradation in comparison to black
   phosphorus
 subtitle: ""
 doi: https://doi.org/10.1063/5.0045090
-featured: true
+featured: false
 tags: []
 projects:
   - example
