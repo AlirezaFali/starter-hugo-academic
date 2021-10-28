@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: "1"
+widget_id: "10"
 headless: true
 weight: 90
 title: Selected Publications
