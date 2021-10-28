@@ -25,7 +25,7 @@ url_video: ""
 title: Nanoscale Spectroscopy of Dielectric Properties of Mica
 subtitle: ""
 doi: https://doi.org/10.1021/acsphotonics.0c00951
-featured: true
+featured: false
 tags: []
 projects:
   - example
