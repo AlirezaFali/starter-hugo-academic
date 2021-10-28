@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: featured
 widget_id: "10"
 headless: true
 weight: 90
