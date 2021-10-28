@@ -25,7 +25,7 @@ url_video: ""
 title: Reconfigurable infrared hyperbolic metasurfaces using phase change materials
 subtitle: ""
 doi: https://doi.org/10.1038/s41467-018-06858-y
-featured: true
+featured: false
 tags: []
 projects:
   - example
