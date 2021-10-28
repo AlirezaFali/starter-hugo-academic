@@ -30,7 +30,7 @@ title: "Photodegradation Protection in 2D In-Plane Heterostructures Revealed by
   Hyperspectral Nanoimaging: The Role of Nanointerface 2D Alloys1"
 subtitle: ""
 doi: https://doi.org/10.1021/acsnano.0c06148
-featured: true
+featured: false
 tags: []
 projects:
   - example
