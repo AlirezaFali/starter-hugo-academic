@@ -31,6 +31,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am an experimental physicist with seven years of experience in Nanophotonics and have several publications in prestigious journals, including Nature Communications, ACS Nano, and Nano Letters. I am expert in different nano-characterization methods such as spectroscopy, TEPL, nano-imaging, optical microscopy, AFM, and nano-FTIR. I also have more than ten years of experience in Matlab for different applications such as data extraction from Hyperspectral images and calculations.
+I am an experimental physicist with seven years of experience in Nanophotonics and have several publications in prestigious journals, including Nature Communications, ACS Nano, and Nano Letters. I am an expert in different nano-characterization methods such as spectroscopy, TEPL, nano-imaging, optical microscopy, AFM, and nano-FTIR. I also have more than ten years of experience in Matlab for different applications such as data extraction from Hyperspectral images and calculations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
